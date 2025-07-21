@@ -4,6 +4,7 @@ Just A New Repo!
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        /*
         <style>
             .container{
                 display: flex;
@@ -32,6 +33,7 @@ Just A New Repo!
                 animation: float 3s infinite ease-in-out;
             }           
         </style>
+        */
     </head>
     <body>
         <h1 style="font-family: cursive;font-weight: 900; font-size: 54px;"> Information !</h1>
